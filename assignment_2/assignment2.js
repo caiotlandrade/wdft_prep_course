@@ -51,4 +51,4 @@ while (hash.length < 8) {
     hash = hash + "#";
 }
 
-// All done!
+/* all done */
